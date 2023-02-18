@@ -1,13 +1,10 @@
+package programmars;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class pro0217 {
-    public static void main(String[] args) {
-        int[][] data = {{2, 2, 6}, {1, 5, 10}, {4, 2, 9}, {3, 8, 3}};
-        int row_begin = 2;
-        int row_end = 3;
-        int col = 2;
+class pro0217 {
+    public int solution(int[][] data, int col, int row_begin, int row_end) {
         int answer = 0;
         Arrays.sort(data, new Comparator<int[]>(){
             public int compare(int[] o1, int[] o2){
@@ -31,6 +28,6 @@ public class pro0217 {
         answer = snum[0];
         for(int q = 1; q < snum.length; q++)
             answer ^= snum[q];
-        System.out.println(answer);
+        return answer;
     }
 }

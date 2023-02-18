@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6b1e20f-f015-4b04-b282-5cf91fb2cd67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pro0217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmars/pro0218.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b1003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b1013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b1013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b10610.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b10610.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b11478.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b11478.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b1254.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b1254.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b1347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b1347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b1920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b1931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b1946.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b1946.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b20291.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b20291.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b2075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b2075.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b2212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b2212.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b9996.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjun/b9996.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmars/p001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pro0217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmars/pro0217.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +68,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.pro0217">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algo" />
@@ -71,7 +87,7 @@
       </method>
     </configuration>
     <configuration name="pro0217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro0217" />
+      <option name="MAIN_CLASS_NAME" value="programmars.pro0217" />
       <module name="algo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pro0217" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.pro0217" />
       </list>
     </recent_temporary>
   </component>

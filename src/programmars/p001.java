@@ -1,4 +1,4 @@
-//프록래머스 124 나라의 숫자
+package programmars;//프록래머스 124 나라의 숫자
 
 import java.util.*;
 
